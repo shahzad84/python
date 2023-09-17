@@ -1,3 +1,5 @@
+# Python Program to count occurrence of characters in string
+
 string=input("please enter string: ")
 char=input("please enter character: ")
 count=0
