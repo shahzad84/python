@@ -4,3 +4,6 @@ string=input("enter a string")
 strList=list(string)
 sortedString="".join(sorted(strList))
 print(sortedString)
+
+# for descending order
+# sortedString=''.join(sorted(strList, reverse =True)) 
