@@ -1,3 +1,4 @@
+# Python program to replace the string space with a given character using replace() method.
 string="good is bad"
 ch=" "
 string=string.replace(" ",ch)
