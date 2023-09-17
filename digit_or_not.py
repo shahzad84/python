@@ -3,4 +3,4 @@ a=input("Enter a no.")
 if a>="0" and a<="9":
     print("it is digit",a)
 else:
-    print("it is not digit",b)
+    print("it is not digit",a)
