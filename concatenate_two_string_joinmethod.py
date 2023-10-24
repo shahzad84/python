@@ -4,6 +4,11 @@
 # print("concatenate","".join([a,b]))
 
 
-a="hii"
-b="good"
+# a="hii"
+# b="good"
+# print(" ".join([a,b]))
+
+
+a="hi"
+b="shahzad"
 print(" ".join([a,b]))
