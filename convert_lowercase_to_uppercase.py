@@ -32,10 +32,31 @@
 # print(result)
 
 
+# string="hii"
+# result=" "
+# for i in string:
+#     if i.islower():
+#         i=i.upper()
+#     result+=i
+# print(result)
+
+
+
+# string="hii"
+# result=""
+# for i in string:
+#     if i.islower():
+#         i=i.upper()
+#     result+=i
+# print(result)
+
+
 string="hii"
-result=" "
+result=""
 for i in string:
     if i.islower():
         i=i.upper()
     result+=i
 print(result)
+
+

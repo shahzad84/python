@@ -5,3 +5,5 @@ b=input("Enter second string: ")
 
 str=a+b
 print(" " ,str)
+
+
