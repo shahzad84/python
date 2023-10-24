@@ -21,3 +21,5 @@ sumArr = 0
 for i in range(n-1):
     sumArr = sumArr+arr[i];
 print(int(sum-sumArr))
+
+
