@@ -51,6 +51,15 @@
 # print(result)
 
 
+# string="hii"
+# result=""
+# for i in string:
+#     if i.islower():
+#         i=i.upper()
+#     result+=i
+# print(result)
+
+
 string="hii"
 result=""
 for i in string:
@@ -58,5 +67,3 @@ for i in string:
         i=i.upper()
     result+=i
 print(result)
-
-
