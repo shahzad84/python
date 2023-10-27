@@ -14,8 +14,15 @@
 # print(new)
 
 
-string="good"
-new=" "
+# string="good"
+# new=" "
+# for i in string:
+#     new+=i
+# print(new)
+
+string="hii"
+new=""
 for i in string:
     new+=i
 print(new)
+
