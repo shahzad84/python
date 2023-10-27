@@ -30,7 +30,20 @@
 # print(alpha,digit,special)
 
 
-string="good"
+# string="good"
+# alpha=0
+# digit=0
+# special=0
+# for i in string:
+#     if i.isalpha():
+#         alpha+=1
+#     elif i.isdigit():
+#         digit+=1
+#     else:
+#         special+=1
+# print(alpha,digit,special)
+
+string="good"  
 alpha=0
 digit=0
 special=0
@@ -42,5 +55,3 @@ for i in string:
     else:
         special+=1
 print(alpha,digit,special)
-
-    
