@@ -34,3 +34,10 @@
 #         string=string.replace(i,upper)
 # print(string)
 
+string="good"
+vowel="aeiou"
+for i in string:
+    if i in vowel:
+        upper=i.upper()
+        string=string.replace(i,upper)
+print(string)
